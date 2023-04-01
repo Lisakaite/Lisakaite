@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lisakaite
 - 👀 I’m interested in web development database administration and systems analysis.
-- 🌱 I’m currently learning app development with jetpack compose, flutter and python.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me ... My twitter handle is @KaitesiLisa and Im Kaitesi Lisa on linkeldin.
 
