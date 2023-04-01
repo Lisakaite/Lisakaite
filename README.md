@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lisakaite
-- 👀 I’m interested in web development database administration and systems analysis.
-- 🌱 I’m currently learning javascript.
+- 👋 Hi, I’m Lisa Kaitesi
+- 👀 I’m interested in web development,UI UX design, database administration and systems analysis.
+- 🌱 I’m currently learning javascript, product development and UI UX design.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me ... My twitter handle is @KaitesiLisa and Im Kaitesi Lisa on linkeldin.
 
